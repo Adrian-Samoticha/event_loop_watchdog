@@ -7,7 +7,7 @@ environment:
   sdk: ^3.0.0
 
 dependencies:
-  vm_service: ^11.9.0
+  vm_service: ^14.3.0
   path: ^1.8.3
 
 dev_dependencies:
